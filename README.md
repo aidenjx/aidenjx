@@ -11,7 +11,7 @@ Backend-focused developer with experience on Unix environments, WordPress and He
 
 ---
 
-### 🛠 Languages & Tools
+###  Languages & Tools
 
 #### **Backend & Systems**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
