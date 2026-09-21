@@ -1,4 +1,6 @@
-Backend-focused developer with experience on Unix environments, WordPress and HelpDesk tasks
+Backend-focused developer with experience on Unix environments, WordPress and HelpDesk tasks. I prefer to have a proper clean
+environment, which translates to properly designing the features I implement, work accordance guidelines, use standard software
+and provide a good experience to pass QA testing
 
 ---
 
