@@ -6,7 +6,7 @@ Backend-focused developer with experience on Unix environments, WordPress and He
 
 * **Core Focus:** Backend, DevOps
 * **Databases:** PostgreSQL, MariaDB
-* **DevOps & OS:** Linux / MacOS, Docker
+* **DevOps & OS:** Linux / MacOS, Docker, Podman
 * **Web Background:** Full-Stack Development with WordPress
 
 ---
