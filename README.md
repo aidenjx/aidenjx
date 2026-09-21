@@ -28,9 +28,12 @@ Backend-focused developer with experience on Unix environments, WordPress and He
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+#### **Agentic Development**
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 ---
 
-### Contact with me
+### Contact me
 
 - For informal messaging, you may add me on Discord as **oilrosejx** 
 
