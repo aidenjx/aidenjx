@@ -3,7 +3,7 @@ environment, which translates to properly designing the features I implement, wo
 and provide a good experience to pass QA testing
 
 I can communicate in 
-- Polish
+- Polish (A1-A2. Constant improvement)
 - English
 - Spanish
 - Catalan
