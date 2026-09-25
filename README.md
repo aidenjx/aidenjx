@@ -13,9 +13,9 @@ I can communicate in
 ###  Main Tech Stack
 
 * **Core Focus:** Backend, DevOps & DevSecOps
-* **Databases:** PostgreSQL, MariaDB
-* **DevOps & OS:** Linux / MacOS, Docker, Podman
-* **Web Background:** Full-Stack Development with WordPress
+* **Databases:** PostgreSQL, MariaDB/MySQL
+* **DevOps & OS:** Linux / MacOS, Docker
+* **Web Background:** Full-Stack Development with and without a CMS like WordPress
 
 ---
 
