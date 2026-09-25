@@ -12,7 +12,7 @@ I can communicate in
 
 ###  Main Tech Stack
 
-* **Core Focus:** Backend, DevOps
+* **Core Focus:** Backend, DevOps & DevSecOps
 * **Databases:** PostgreSQL, MariaDB
 * **DevOps & OS:** Linux / MacOS, Docker, Podman
 * **Web Background:** Full-Stack Development with WordPress
