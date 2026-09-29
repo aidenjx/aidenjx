@@ -13,8 +13,8 @@ I can communicate in
 ###  Main Tech Stack
 
 * **Core Focus:** Backend, DevOps & DevSecOps
-* **Databases:** PostgreSQL, MariaDB/MySQL
-* **DevOps & OS:** Linux / MacOS, Docker
+* **Databases:** PostgreSQL mostly
+* **DevOps & OS:** Linux, Docker
 * **Web Background:** Full-Stack Development with and without a CMS like WordPress
 
 ---
