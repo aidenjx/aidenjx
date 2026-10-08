@@ -1,5 +1,5 @@
-Backend-focused developer with experience on Unix environments and WordPress. I prefer to have a proper clean
-environment, which translates to properly designing the features I implement, work accordance guidelines, use standard software
+Backend-focused developer with experience on Unix environments and WordPress. I prefer to have a proper, clean
+environment, which translates to properly designing the features I implement, working according to guidelines, using standard software
 and provide a good experience to pass QA testing
 
 I can communicate in 
@@ -44,4 +44,4 @@ I can communicate in
 
 - For informal messaging, you may add me on Discord as **oilrosejx** 
 
-- For formal messaging, you may reach out to **jinxynet@duck.com**
+- For formal messaging, you may reach out to **ohxbykfsp@mozmail.com**
