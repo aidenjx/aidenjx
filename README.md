@@ -1,6 +1,6 @@
-Backend-focused developer with experience on Unix environments and WordPress. I prefer to have a proper, clean
+Backend-focused developer with experience in Unix environments and WordPress. I prefer to have a proper, clean
 environment, which translates to properly designing the features I implement, working according to guidelines, using standard software
-and provide a good experience to pass QA testing
+and providing a good experience to pass QA testing
 
 I can communicate in 
 - Polish (A1-A2. Constant improvement)
@@ -12,11 +12,9 @@ I can communicate in
 
 ###  Main Tech Stack
 
-* **Core Focus:** Backend, DevOps & DevSecOps
+* **Core Focus:** Robotics / Embedded and server-side programming
 * **Databases:** PostgreSQL mostly
 * **DevOps & OS:** Linux, Docker
-* **Web Background:** Full-Stack Development with and without a CMS like WordPress
-
 ---
 
 ###  Languages & Tools
