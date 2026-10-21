@@ -10,13 +10,6 @@ I can communicate in
 
 ---
 
-###  Main Tech Stack
-
-* **Core Focus:** Robotics / Embedded and server-side programming
-* **Databases:** PostgreSQL mostly
-* **DevOps & OS:** Linux, Docker
----
-
 ###  Languages & Tools
 
 #### **Backend & Systems**
