@@ -34,6 +34,6 @@ I can communicate in
 
 ### Contact me
 
-- For informal messaging, you may add me on Discord as **oilrosejx** 
+- For informal messaging, you may add me on Discord as **oilrosejnx** 
 
 - For formal messaging, you may reach out to **ohxbykfsp@mozmail.com**
