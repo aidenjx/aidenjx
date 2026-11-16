@@ -32,8 +32,7 @@
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Scrum / Agile](https://img.shields.io/badge/Scrum%20%2F%20Agile-009688?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Peer Code Reviews](https://img.shields.io/badge/Peer%20Code%20Reviews-43853D?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)![Peer Code Reviews](https://img.shields.io/badge/Peer%20Code%20Reviews-43853D?style=for-the-badge)
 ![Technical Documentation](https://img.shields.io/badge/Technical%20Documentation-00487C?style=for-the-badge)
 
 #### **Agentic Development**
@@ -43,8 +42,4 @@
 ---
 
 ### Contact me
-
-- For informal messaging, you may add me on Discord as **oilrosejnx** 
-
-
-- For formal messaging, you may reach out to **ohxbykfsp@mozmail.com**
+- You may reach out to **ohxbykfsp@mozmail.com**
